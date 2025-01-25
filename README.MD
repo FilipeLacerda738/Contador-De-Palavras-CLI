@@ -1,4 +1,4 @@
-Segue uma documentação mais profissional, detalhada e com todas as informações necessárias para o uso do projeto:
+
 
 ---
 
